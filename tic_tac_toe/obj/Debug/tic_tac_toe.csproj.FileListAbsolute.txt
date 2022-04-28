@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/tic_tac_toe/tic_tac_toe/bin/Debug/tic_tac_toe.exe
+/Users/ehsan/Desktop/c#practice/tic_tac_toe/tic_tac_toe/bin/Debug/tic_tac_toe.pdb
+/Users/ehsan/Desktop/c#practice/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.exe
+/Users/ehsan/Desktop/c#practice/tic_tac_toe/tic_tac_toe/obj/Debug/tic_tac_toe.pdb
